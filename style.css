@@ -1,0 +1,205 @@
+body{
+    position: relative;
+    width: 1440px;
+    height: 2660px;
+    background: #FFFFFF;
+    font-family: 'Roboto', sans-serif;
+}
+ul{
+    list-style: none;
+    text-align: right;
+    position: absolute;
+    width: 319px;
+    height: 24px;
+    left: 979px;
+    top: 37px;
+}
+li{
+    display: inline-block; 
+    margin-right: 25px; 
+}
+a{
+    text-decoration: none;
+    font-size: 16px;
+    font-weight: 900;
+}
+.intro{
+    position: absolute;
+    width: 348px;
+    height: 300px;
+    left: 135px;
+    top: 125px;
+    font-weight: 900;
+}
+span{
+   color: #FF8367;
+}
+p{
+    font-size: 16px;
+}
+h1{
+    font-size: 55px;
+}
+.button{
+    text-decoration: none;
+    background: linear-gradient(0deg, #FF8063 -28.33%, #F46060 95.83%);
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    padding: 10px;
+    color: white;
+    border-radius: 5px;
+    font-weight: 800;  
+}
+.hire{
+    top: 300px;
+    position: absolute;  
+}
+.profile-pic{
+    position: absolute;
+    width: 465px;
+    height: 613px;
+    left: 720px;
+    top: 120px;
+}
+h2{
+    position: absolute;
+    width: 95px;
+    height: 40px;
+    left: 831px;
+    top: 600px;
+    font-family: Bebas Neue; 
+    font-weight: bold;
+    font-size: 48px;
+    line-height: 48px;
+}
+h3{
+    font-size: 25px;
+    font-weight: bold;
+    font-family: Bebas Neue;   
+}
+.name{
+    text-align: center;
+}
+.about-me{
+    position: absolute;
+    width: 451px;
+    height: 132px;
+    left: 831px;
+    top: 700px;
+    text-align: justify; 
+}
+.profile-picture{
+    position: absolute;
+    width: 476.26px;
+    height: 583.51px;
+    left: 123px;
+    top: 544px;
+    overflow: hidden;
+}
+.cv{   
+    position: absolute;
+    left: 831px;
+    top: 850px;
+    overflow: hidden;
+}
+.project-feature{
+    position: inherit;
+    top: 1100px;
+    background-color: linen;
+    height: 700px;  
+}
+.latest-work{
+    padding-top: 60px;
+}
+.feature{
+    display: inline-block;
+    width: 375px;
+    height: 400px;
+    background: #FFFFFF;
+    box-shadow: 0px 6.5812px 19.7436px rgba(0, 0, 0, 0.07);
+    border-radius: 19.7436px;
+    margin-top: 40px;
+}
+.one{
+    margin-left: 135px; 
+}
+.two{
+    margin-left: 20px;
+}
+.three{
+    margin-left: 20px;
+}
+#background-image{
+    width: 370px;
+    height: 213px;
+    background-repeat: no-repeat;
+    margin-top: 7px;
+    margin-left: 2.5px;
+}
+.work-inquiry{
+    position: inherit;
+    top: 1100px;
+    height: 425px ;  
+}
+#inquiry{
+    font-size: 40px;
+    font-weight: bold;
+    font-family: bedas neue;
+    color: #ffffff;
+    margin-left: 341px;
+    float: left;
+    margin-top: 185px;
+    position: absolute;   
+}
+#chat-button{
+    margin-left: 1000px;
+    position: absolute;
+    top: 185px;
+}
+.inquiry-png{
+    position: absolute;
+    width: 906px;
+    height: 225px;
+    top: 100px;
+    left: 267px;
+}
+.footer{
+    position: relative;
+    top: 1100px;
+    background-color: rgb(215, 222, 231);
+    height: 300px;    
+}
+.icons{
+    position: absolute;
+    width: 40px;
+    height: 40px;
+    top: 120px;
+    margin-left: 5px;   
+}
+.pinterest{
+    left: 635px; 
+}
+.tweter{
+    left: 702px;
+}
+.facebok{
+    left: 769px;
+}
+.ptag1{
+    margin-left: 620px;
+    font-weight: bold;
+    font-size: 24px;
+}
+.ptag2{
+    margin-left: 500px;
+    font-weight: bold;
+    font-size: 30px;   
+}
+.ptag{
+    line-height: 10px;
+    margin: 10px 20px;
+    padding-top: 20px;  
+}
+
+
+
+
